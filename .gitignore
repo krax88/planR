@@ -3,3 +3,9 @@
 .RData
 .Ruserdata
 offline_storage/
+.httr-oauth
+.httr-oauth-SUSPENDED
+taskR/
+taskR/app.R
+testAppR/
+shiny_app_token.rds
